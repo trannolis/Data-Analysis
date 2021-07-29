@@ -1,5 +1,8 @@
 # Data Analysis
 
+## Financial Modeling
+- Individual Mortgages
+
 ## Forecasting Projects
 - FHFA Data on Default Mortgage Default Rates (1994-2019)
 
