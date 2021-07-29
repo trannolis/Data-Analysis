@@ -1,4 +1,4 @@
-# Data Analysis
+# Data Analysis Projects
 
 ## Financial Modeling
 - Individual Mortgages
