@@ -20,7 +20,6 @@
 
 from sys import intern
 from numpy.core.numeric import _ones_like_dispatcher
-from numpy.testing._private.utils import nulp_diff
 import numpy as np
 import numpy_financial as npf #pip3 install numpy_financial and switch to base:conda environment
 
