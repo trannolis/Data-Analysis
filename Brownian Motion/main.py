@@ -22,6 +22,7 @@ from sys import intern
 from numpy.core.numeric import _ones_like_dispatcher
 import numpy as np
 import numpy_financial as npf #pip3 install numpy_financial and switch to base:conda environment
+import math
 
 def scheduledAmortizedPayment(rate, nper, pv):
     """This function returns a single amortized payment,
@@ -150,8 +151,6 @@ def main():
 
     mortgage1 = Mortgage(1221130638, "Shore", "Current", "Current", "Paige", 360, 100000, 0.03, [2])
     print(mortgage1)
-    print(mortgage2)
-    print(mortgage3)
 
 main()
 
