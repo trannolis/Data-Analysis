@@ -1,0 +1,1 @@
+Historical files may contain record counts that exceed the capacity of some applications such as MS Excel.
